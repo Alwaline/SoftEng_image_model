@@ -19,7 +19,7 @@
 
 1. Клонируем репозиторий (если есть) и переходим в папку:
 ```bash
-git clone https://github.com/your-username/yolov5-object-detection.git
+git clone https://github.com/Alwaline/SoftEng_image_model.git
 cd yolov5-object-detection
 ````
 
