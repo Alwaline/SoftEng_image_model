@@ -20,14 +20,13 @@
 1. Клонируем репозиторий (если есть) и переходим в папку:
 ```bash
 git clone https://github.com/Alwaline/SoftEng_image_model.git
-cd yolov5-object-detection
+cd SoftEng_image_model
 ````
 
-2. Устанавливаем зависимости:
+2. Устанавливаем зависимости (рекомендуется использовать виртуальное окружение):
 
 ```bash
-pip install torch torchvision torchaudio matplotlib
-pip install yolov5  # или ultralytics, если необходимо
+pip install -r requirements.txt
 ```
 
 ---
